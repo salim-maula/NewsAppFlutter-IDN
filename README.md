@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## articles that will help in working on the project
 
-This project is a starting point for a Flutter application.
+1. making tabBar https://www.udacoding.com/membuat-tabbar-di-flutter/
+2. What is the state managemment? https://www.goindoti.com/2021/07/memahami-konsep-dasar-state-management-pada-flutter-stateful-dan-stateless-widget.html
+3. what is the dispose? https://stackoverflow.com/questions/59558604/why-do-we-use-the-dispose-method-in-flutter-dart-code
+4. Parsing complex JSON in Flutter https://ichi.pro/id/mengurai-json-kompleks-di-flutter-27300625035333
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
